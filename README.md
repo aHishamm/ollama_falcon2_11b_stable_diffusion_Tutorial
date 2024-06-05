@@ -1,10 +1,8 @@
 # ollama_falcon2_11b_stable_diffusion_Tutorial
 This repository contains the necessary steps for installing ollama and running TII's Falcon 11b in 4-bit quantization, along with Whisper for ASR, and ComfyUI for handling the stable diffusion backend
 
-### Preview of the system 
-- Insert a video of the it working here 
-
-
+### Preview of the system   
+https://github.com/aHishamm/ollama_falcon2_11b_stable_diffusion_Tutorial/assets/40188935/cdd9de00-d4a7-4bd9-913b-98a4b83aedcd
 ### Project Prequisites 
 1. Node and NPM need to be installed 
 2. Conda or venv (optional) (Conda was used in this tutorial)
@@ -13,7 +11,6 @@ This repository contains the necessary steps for installing ollama and running T
 5. Open WebUI 
 6. ComfyUI for managing the stable diffusion pipeline
 7. RealisticVisionV60B1 as the base model for the diffusion pipeline (optional) (Download any pretrained model checkpoint that you would like and use here)
-
 ### Steps for installation
 #### Installing Node and NPM 
 The below steps are for installing node and npm on MacOS:
